@@ -1,0 +1,18 @@
+﻿{
+  "name": "my-app",
+  "authors": [
+    "patriciasferlea <patricia.sferlea@accesa.eu>"
+  ],
+  "description": "lalalala",
+  "main": "gruntfile.js",
+  "keywords": [
+    "lalallala"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0"
+  }
+}
